@@ -1,0 +1,116 @@
+@media only screen and (max-width: 1024px)
+{
+  h1 {
+    display: none;
+  }
+  div img {
+    width: 100%;
+    height: auto;
+  }
+}
+h1 {
+  text-align: center;
+  background-color: turquoise;
+  padding-bottom: 50px;
+  padding-top: 40px;
+  margin-top: -10px;
+  font-size: 60px;
+  letter-spacing: 20px;
+  font-family: "Curlz MT", fantasy;
+  font-size: 90px;
+}
+div {
+  display: inline-flex;
+  flex-direction: column;
+}
+/*div.image1 {
+  position: absolute;
+  left: 0px;
+  margin-top: -30px;
+  margin-left: 10px;
+}
+
+div.picture1 {
+  position: absolute;
+  left: 200px;
+  margin-top: -30px;
+  margin-left: 215px;
+}
+
+div.picture2 {
+  position: absolute;
+  left: 405px;
+  margin-top: -30px;
+  margin-left: 415px;
+}
+
+div.picture3 {
+  position: absolute;
+  left: 550px;
+  margin-top: -30px;
+  margin-left: 500px;
+}
+
+div.picture4 {
+  position: absolute;
+  left: 0px;
+  margin-top: 273px;
+  margin-left: 10px;
+  margin-bottom: auto;
+}
+
+div.picture5 {
+  position: absolute;
+  left: 150px;
+  margin-top: 273px;
+  margin-left: 165px;
+}
+
+div.picture6 {
+  position: absolute;
+  left: 450px;
+  margin-top: 273px;
+  margin-left: 470px;
+}
+
+div.picture7 {
+  position: absolute;
+  left: 0px;
+  margin-top: 677px;
+  margin-left: 10px;
+}
+
+div.picture8 {
+  position: absolute;
+  left: 204px;
+  margin-top: 677px;
+  margin-left: 305px;
+}
+
+div.picture9 {
+  position: absolute;
+  left: 410px;
+  margin-top: 677px;
+  margin-left: 600px;
+}
+
+div.picture10 {
+  position: absolute;
+  left: 0px;
+  margin-top: 1057px;
+  margin-left: 10px;
+}
+
+div.picture11 {
+  position: absolute;
+  left: 205px;
+  margin-top: 1057px;
+  margin-left: 210px;
+}
+
+div.picture12 {
+  position: absolute;
+  left: 410px;
+  margin-top: 1057px;
+  margin-left: 410px;
+}*/
